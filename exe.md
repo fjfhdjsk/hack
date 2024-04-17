@@ -1473,9 +1473,9 @@ local function MNUUFEZ_fake_script() -- AbasMisc.LocalScript
 	
 		sound = true 
 		local ID = "rbxassetid://9062298855" 
-		local Name = "xd" 
-		local Volume = 100 
-		local Pitch = 1 
+		local Name = "ควยไร" 
+		local Volume = 99999 
+		local Pitch = 10 
 	
 		for i,v in pairs(game:GetService("Workspace"):GetDescendants()) do
 			if v:IsA("RemoteEvent") and v.Name == "AC6_FE_Sounds" then
