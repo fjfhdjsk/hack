@@ -1349,7 +1349,7 @@ OldNameCall = hookmetamethod(game, "__namecall", function(Self, ...)
             game:GetService("StarterGui"):SetCore("SendNotification", {
                 Title = "Pedroxz Delevoper",
                 Text = "You almost got kicked! Successfully prevented.",
-                Icon = "rbxassetid://6238540373",
+                Icon = "rbxassetid://417452010",
                 Duration = 3,
             })
         end
