@@ -1472,7 +1472,7 @@ local function MNUUFEZ_fake_script() -- AbasMisc.LocalScript
 		Button.BackgroundColor3 = (Button.Visible and Color3.fromRGB(38, 112, 112)) or Color3.fromRGB(72, 72, 72)
 	
 		sound = true 
-		local ID = "rbxassetid://5686828969" 
+		local ID = "rbxassetid://6129291390" 
 		local Name = "ควยไร" 
 		local Volume = 99999 
 		local Pitch = 1 
